@@ -50,12 +50,14 @@ Add query variable as below :
 
 }
 
-
-Instruction for postman :
+# Instruction for postman :
 
 URL :  http://localhost:8080/graphql
+
 Method : POST
+
 Header: content-type:application/json
+
 Body :
 For mutation body will be
 
